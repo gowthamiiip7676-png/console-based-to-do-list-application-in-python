@@ -31,6 +31,6 @@ This project is designed for beginners to practice:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/todo-list-python.git
+   git clone https://github.com/gowthamiiip7676-png/todo-list-python.git
    cd todo-list-python# console-based-to-do-list-application-in-python
 this project is a console based to do list application built with python.It allows users  to easily manage daily tasksby adding,viewing,and removing items from a task list
